@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- statusbar -->
+    <dimen name="title_bar_heigth">45dp</dimen>
+    <!-- 文字字体 -->
+    <dimen name="common_font_size_16">16sp</dimen>
+    <dimen name="common_font_size_14">14sp</dimen>
+    <dimen name="common_font_size_12">12sp</dimen>
+    <dimen name="common_font_size_10">10sp</dimen>
+
+    <dimen name="common_detail_line_height">7dp</dimen>
+
+    <dimen name="common_detail_margin_left_15">15dp</dimen>
+</resources>
