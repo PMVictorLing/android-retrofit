@@ -73,7 +73,7 @@ public class MainActivity extends BaseActivity implements TestV {
 
     @Override
     public void onSuccess(LoginBean bean) {
-        CurrencyUtils.showToastMsg("成功");
+        CurrencyUtils.showToastMsg("成功 用户名="+bean.getNick_name());
 
     }
 
